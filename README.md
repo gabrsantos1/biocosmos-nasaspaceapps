@@ -11,7 +11,7 @@ Implementamos também o uso de imagens em 3D, que proporcionam uma visualizaçã
 - [@pedropaulobarbosaarantes](https://github.com/PedroPauloBarbosaArantes)
 - [@lucasbovo](https://github.com/LucasBovo)
 - [@thiagopoliseli](https://github.com/ThiagoPoliseli)
-- [@giovanneleite](https://www.github.com/octokatherine)
+- [@giovanne7](https://github.com/giovanne7)
 
 
 ## Inicializando a aplicação
